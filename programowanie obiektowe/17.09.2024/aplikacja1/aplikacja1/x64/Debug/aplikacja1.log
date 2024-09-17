@@ -1,0 +1,7 @@
+﻿  aplikacja1.cpp
+C:\Users\Programista\Desktop\3ct\programowanie obiektowe\17.09.2024\aplikacja1\aplikacja1.cpp(47,13): warning C4566: znak przedstawiony przez nazwę zawierającą znaki uniwersalne "\u16CB" nie może być przedstawiony w bieżącej stronie kodowej (1250)
+C:\Users\Programista\Desktop\3ct\programowanie obiektowe\17.09.2024\aplikacja1\aplikacja1.cpp(66,17): warning C4244: "argument": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\Programista\Desktop\3ct\programowanie obiektowe\17.09.2024\aplikacja1\aplikacja1.cpp(67,17): warning C4244: "argument": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\Programista\Desktop\3ct\programowanie obiektowe\17.09.2024\aplikacja1\aplikacja1.cpp(78,15): warning C4244: "argument": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\Programista\Desktop\3ct\programowanie obiektowe\17.09.2024\aplikacja1\aplikacja1.cpp(79,15): warning C4244: "argument": konwersja z "double" do "float", możliwa utrata danych
+  aplikacja1.vcxproj -> C:\Users\Programista\Desktop\3ct\programowanie obiektowe\17.09.2024\aplikacja1\x64\Debug\aplikacja1.exe
