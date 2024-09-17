@@ -11,6 +11,7 @@
         echo("Error 777 (Jackpot)");
     }
 
-    echo("<h3>Cofnij</h3>")
+    echo("\n<a href='index.php'>Cofnij</a>");
+
     $polaczenie->close();
 ?>

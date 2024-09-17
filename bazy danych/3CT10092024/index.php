@@ -24,6 +24,17 @@
             echo("</ul>")
         ?>
     </div>
+
+    <div>
+        <form method="post" action="dodaj.php">
+        <label>Nazwa</label>
+        <input type="text" name="name">
+        <label>Cena</label>
+        <input type="text" name="cena">
+        
+        <button type="submit" name="submit" value="submit">Send</button>
+        </form>
+    </div>
 </body>
 </html>
 
