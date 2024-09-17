@@ -14,7 +14,7 @@
     <div class="czytaj" style="text-align: center;">
         <?php
             //SELECT * FROM `zakupy` WHERE 1
-            $zapytanieSelect = $polaczenie->query("SELECT `nazwa`, `cena` FROM `zakupy` WHERE 1");
+            $zapytanieSelect = $polaczenie->query("SELECT `idz`, `nazwa`, `cena` FROM `zakupy` WHERE 1");
             echo("<ul>");
             while(list($idz, $nazwa, $cena)=mysqli_fetch_row($zapytanieSelect)){
                 echo("<li>");
