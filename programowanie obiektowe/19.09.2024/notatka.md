@@ -2,11 +2,11 @@
 
 
 ### Spis treści:
-#### - Bramki logiczne
+#### - `Typy bramek logicznych`
 
 ---
 
-**Typy bramek logicznych:**
+**#Typy bramek logicznych**
 - AND
 - OR
 - NO
