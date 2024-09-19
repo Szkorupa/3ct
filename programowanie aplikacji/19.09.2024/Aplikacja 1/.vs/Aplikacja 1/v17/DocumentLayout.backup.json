@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Programista\\Desktop\\3ct\\programowanie aplikacji\\19.09.2024\\Aplikacja 1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EE62086D-02AA-44EC-A8E1-3D40D6F40D1C}|Aplikacja 1\\Aplikacja 1.csproj|c:\\users\\programista\\desktop\\3ct\\programowanie aplikacji\\19.09.2024\\aplikacja 1\\aplikacja 1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE62086D-02AA-44EC-A8E1-3D40D6F40D1C}|Aplikacja 1\\Aplikacja 1.csproj|solutionrelative:aplikacja 1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Programista\\Desktop\\3ct\\programowanie aplikacji\\19.09.2024\\Aplikacja 1\\Aplikacja 1\\Program.cs",
+              "RelativeDocumentMoniker": "Aplikacja 1\\Program.cs",
+              "ToolTip": "C:\\Users\\Programista\\Desktop\\3ct\\programowanie aplikacji\\19.09.2024\\Aplikacja 1\\Aplikacja 1\\Program.cs",
+              "RelativeToolTip": "Aplikacja 1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T12:59:12.48Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

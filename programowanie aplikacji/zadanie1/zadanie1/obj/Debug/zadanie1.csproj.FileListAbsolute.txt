@@ -1,0 +1,7 @@
+C:\Users\Programista\Desktop\3ct\programowanie aplikacji\zadanie1\zadanie1\bin\Debug\zadanie1.exe.config
+C:\Users\Programista\Desktop\3ct\programowanie aplikacji\zadanie1\zadanie1\bin\Debug\zadanie1.exe
+C:\Users\Programista\Desktop\3ct\programowanie aplikacji\zadanie1\zadanie1\bin\Debug\zadanie1.pdb
+C:\Users\Programista\Desktop\3ct\programowanie aplikacji\zadanie1\zadanie1\obj\Debug\zadanie1.csproj.AssemblyReference.cache
+C:\Users\Programista\Desktop\3ct\programowanie aplikacji\zadanie1\zadanie1\obj\Debug\zadanie1.csproj.CoreCompileInputs.cache
+C:\Users\Programista\Desktop\3ct\programowanie aplikacji\zadanie1\zadanie1\obj\Debug\zadanie1.exe
+C:\Users\Programista\Desktop\3ct\programowanie aplikacji\zadanie1\zadanie1\obj\Debug\zadanie1.pdb
