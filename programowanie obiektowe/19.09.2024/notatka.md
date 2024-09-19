@@ -1,5 +1,6 @@
 # Programowanie obiektowe 19.09.2024
 
+
 ### Bramki logiczne
 
 **Typy bramek logicznych:**
@@ -7,5 +8,7 @@
 - OR
 - NO
 - XOR
+
+![image](files/tak.jpg)
 
 
