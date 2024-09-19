@@ -9,6 +9,6 @@
 - NO
 - XOR
 
-![image](files/tak.jpg)
+![image](tak.jpg)
 
 
