@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+const ksiazki = [
+  { tytul: 'Książka 1', autor: 'Autor 1', rok: 1999 },
+  { tytul: 'Książka 2', autor: 'Autor 2', rok: 2001 },
+  { tytul: 'Książka 3', autor: 'Autor 3', rok: 1995 },
+  { tytul: 'Książka 4', autor: 'Autor 4', rok: 2005 },
+  { tytul: 'Książka 5', autor: 'Autor 5', rok: 2010 }
+];
+
+const ksiazkipo2000 = ksiazki.filter(ksiazki => ksiazki.rok > 2000);
+console.log('Książki wydane po 2000 roku:');
+ksiazkipo2000.forEach(ksiazki => console.log(ksiazki.tytul));
+    </script>
+</body>
+</html>
