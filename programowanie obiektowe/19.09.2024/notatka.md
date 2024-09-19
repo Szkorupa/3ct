@@ -3,12 +3,21 @@
 
 ### Bramki logiczne
 
+---
+
 **Typy bramek logicznych:**
 - AND
 - OR
 - NO
 - XOR
 
+---
+
+**Obrazek wizualizujący**
+
+*Uwaga! wejść może być więcej*
+
 ![image](tak.jpg)
 
+---
 
