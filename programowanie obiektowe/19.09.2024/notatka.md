@@ -1,7 +1,8 @@
 # Programowanie obiektowe 19.09.2024
 
 
-### Bramki logiczne
+### Spis treści:
+#### - Bramki logiczne
 
 ---
 
