@@ -2,6 +2,7 @@
     padding: 0;
     margin: 0;
     box-sizing: border-box;
+    color: white;
 }
 
 main{
@@ -21,3 +22,32 @@ main{
     border-radius: 70px;
     border: 6px white solid;
 }
+
+.table{
+padding: 25px;
+}
+
+h2{
+    text-align: center;
+    padding: 50px;
+}
+
+table{
+    display: flex;
+    justify-content: center;
+}
+
+a{
+    text-align: center;
+}
+
+.text{
+    display: flex;
+    justify-content: center;
+}
+
+table, th, td {
+    border: 2px solid;
+    margin: 10px;
+    padding: 20px;
+  }
