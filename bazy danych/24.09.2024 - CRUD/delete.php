@@ -1,5 +1,5 @@
 <?php
-    include 'db.php';
+    include 'includes/db.php';
 
     $id = $_GET['id'];
     $sql = "DELETE FROM users WHERE id=$id";

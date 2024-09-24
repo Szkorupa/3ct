@@ -1,8 +1,13 @@
 <?php
     include 'includes/db.php';
+    $result = $conn->query("SELECT id, name, email, created_at FROM users");
 
-    $sql = "SELECT id, name, email, created at FROM users";
-    $result = $conn->query($sql);
+    if (!$result) {
+        echo "Error: " . $conn->error;
+        exit();
+    }
+    $num_rows = $result->num_rows;
+    
 ?>
 
 <!DOCTYPE html>

@@ -1,5 +1,5 @@
 <?php
-include 'db.php';
+include 'includes/db.php';
 
 $id = $_GET['id'];
 $sql = "SELECT * FROM users WHERE id=$id";
@@ -15,7 +15,7 @@ $user = $result->fetch_assoc();
 </head>
 <body>
     <h2>Edytuj użytkownika</h2>    
-    <form action="udpate.php" method="post">
+    <form action="update.php" method="post">
         <input type="hidden" name="id" value="<?php echo $user['id']; ?>">
         <label for="name">Imię:</label><br>
         <input type="text" id="name" name="name" value="<?php echo $user['name'];?>" required> <br>
