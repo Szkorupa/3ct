@@ -1,0 +1,7 @@
+C:\Users\Programista\Desktop\3ct\programowanie obiektowe\19.09.2024.BJ\bin\Debug\19.09.2024.BJ.exe.config
+C:\Users\Programista\Desktop\3ct\programowanie obiektowe\19.09.2024.BJ\bin\Debug\19.09.2024.BJ.exe
+C:\Users\Programista\Desktop\3ct\programowanie obiektowe\19.09.2024.BJ\bin\Debug\19.09.2024.BJ.pdb
+C:\Users\Programista\Desktop\3ct\programowanie obiektowe\19.09.2024.BJ\obj\Debug\19.09.2024.BJ.csproj.AssemblyReference.cache
+C:\Users\Programista\Desktop\3ct\programowanie obiektowe\19.09.2024.BJ\obj\Debug\19.09.2024.BJ.csproj.CoreCompileInputs.cache
+C:\Users\Programista\Desktop\3ct\programowanie obiektowe\19.09.2024.BJ\obj\Debug\19.09.2024.BJ.exe
+C:\Users\Programista\Desktop\3ct\programowanie obiektowe\19.09.2024.BJ\obj\Debug\19.09.2024.BJ.pdb
