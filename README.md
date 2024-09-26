@@ -4,4 +4,4 @@
 
 ### Made by Maksymilian Szkorupa, Jakub Moliński.
 
-[![App Store](https://img.shields.io/badge/App_Store-0D96F6?logo=app-store&logoColor=white)](#)
+[![Rumcajs](https://static.myvimu.com/photo/03/51203.jpg)](#)
