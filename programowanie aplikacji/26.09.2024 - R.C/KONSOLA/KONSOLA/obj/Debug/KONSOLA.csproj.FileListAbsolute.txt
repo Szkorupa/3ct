@@ -1,0 +1,7 @@
+C:\Users\Uczen\source\repos\KONSOLA\KONSOLA\obj\Debug\KONSOLA.csproj.AssemblyReference.cache
+C:\Users\Uczen\source\repos\KONSOLA\KONSOLA\obj\Debug\KONSOLA.csproj.CoreCompileInputs.cache
+C:\Users\Uczen\source\repos\KONSOLA\KONSOLA\bin\Debug\KONSOLA.exe.config
+C:\Users\Uczen\source\repos\KONSOLA\KONSOLA\bin\Debug\KONSOLA.exe
+C:\Users\Uczen\source\repos\KONSOLA\KONSOLA\bin\Debug\KONSOLA.pdb
+C:\Users\Uczen\source\repos\KONSOLA\KONSOLA\obj\Debug\KONSOLA.exe
+C:\Users\Uczen\source\repos\KONSOLA\KONSOLA\obj\Debug\KONSOLA.pdb
