@@ -4,4 +4,4 @@
 
 ### Made by Maksymilian Szkorupa, Jakub Moliński.
 
-!(https://pzs1.pszczyna.edu.pl/wp-content/themes/pzsnr1/img/new_logo.png)
+[![App Store](https://img.shields.io/badge/App_Store-0D96F6?logo=app-store&logoColor=white)](#)
