@@ -1,0 +1,7 @@
+C:\Users\Uczen\Desktop\3ct\programowanie aplikacji\03.10.2024 - R.C\Zadanie2\Zadanie2\bin\Debug\Zadanie2.exe.config
+C:\Users\Uczen\Desktop\3ct\programowanie aplikacji\03.10.2024 - R.C\Zadanie2\Zadanie2\bin\Debug\Zadanie2.exe
+C:\Users\Uczen\Desktop\3ct\programowanie aplikacji\03.10.2024 - R.C\Zadanie2\Zadanie2\bin\Debug\Zadanie2.pdb
+C:\Users\Uczen\Desktop\3ct\programowanie aplikacji\03.10.2024 - R.C\Zadanie2\Zadanie2\obj\Debug\Zadanie2.csproj.AssemblyReference.cache
+C:\Users\Uczen\Desktop\3ct\programowanie aplikacji\03.10.2024 - R.C\Zadanie2\Zadanie2\obj\Debug\Zadanie2.csproj.CoreCompileInputs.cache
+C:\Users\Uczen\Desktop\3ct\programowanie aplikacji\03.10.2024 - R.C\Zadanie2\Zadanie2\obj\Debug\Zadanie2.exe
+C:\Users\Uczen\Desktop\3ct\programowanie aplikacji\03.10.2024 - R.C\Zadanie2\Zadanie2\obj\Debug\Zadanie2.pdb
