@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <button id="naglowek">TESTTTT</button>
+</body>
+    <script>
+                let naglowek = document.getElementById('naglowek');
+                naglowek.addEventListener('click', dodaj);
+        var a = 0;
+        function dodaj() {
+            a++
+            if (a == 3){
+                naglowek.removeEventListener('click', dodaj);
+            }
+        }
+    </script>
+</html>
