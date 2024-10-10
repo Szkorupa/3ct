@@ -1,0 +1,7 @@
+C:\Users\Uczen\Desktop\3ct\programowanie aplikacji\10.10.2024 - R.C\Aplikacja\Aplikacja\bin\Release\Aplikacja.exe.config
+C:\Users\Uczen\Desktop\3ct\programowanie aplikacji\10.10.2024 - R.C\Aplikacja\Aplikacja\bin\Release\Aplikacja.exe
+C:\Users\Uczen\Desktop\3ct\programowanie aplikacji\10.10.2024 - R.C\Aplikacja\Aplikacja\bin\Release\Aplikacja.pdb
+C:\Users\Uczen\Desktop\3ct\programowanie aplikacji\10.10.2024 - R.C\Aplikacja\Aplikacja\obj\Release\Aplikacja.csproj.AssemblyReference.cache
+C:\Users\Uczen\Desktop\3ct\programowanie aplikacji\10.10.2024 - R.C\Aplikacja\Aplikacja\obj\Release\Aplikacja.csproj.CoreCompileInputs.cache
+C:\Users\Uczen\Desktop\3ct\programowanie aplikacji\10.10.2024 - R.C\Aplikacja\Aplikacja\obj\Release\Aplikacja.exe
+C:\Users\Uczen\Desktop\3ct\programowanie aplikacji\10.10.2024 - R.C\Aplikacja\Aplikacja\obj\Release\Aplikacja.pdb

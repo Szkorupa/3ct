@@ -1,0 +1,5 @@
+Pojęcia:
+
+	DRY - Don't Repeal Yourself
+
+	KISS - Keep It Simple Stupid 
