@@ -1,5 +1,5 @@
 # Lekcja Programowanie Obiektowe
 
-Enum - 
+## Enum
 
 ![fish](https://media.tenor.com/x9efZijA7aYAAAAM/fsh-spin.gif)
