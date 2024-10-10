@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <form id="formularz"> 
+        <label for="haslo">Hasło:</label>
+        <input type="password" id="haslo" name="haslo">
+        <label for="haslo2">Potwierdz Hasło:</label>
+        <input type="password" id="haslo2" name="haslo2">
+
+        <button type="submit">Zaloguj się</button>
+
+       </form>
+       
+
+    <script>
+        let formularz = document.getElementById('formularz');
+        formularz.addEventListener('submit', function(event) {
+        event.preventDefault();
+
+        let haslo = document.getElementById('haslo').value;
+
+        if (haslo == haslo2) {
+        alert('Git');
+        } else {
+        console.log('Dane są poprawne, przesyłanie formularza...');
+        }
+        });
+
+    </script>
+</body>
+</html>

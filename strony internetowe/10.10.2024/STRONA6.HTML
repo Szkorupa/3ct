@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <form id="formularz"> 
+        <label for="haslo">Hasło:</label>
+        <input type="password" id="haslo" name="haslo">    
+        
+        <button type="submit">Zaloguj się</button>
+
+       </form>
+       
+
+    <script>
+        let formularz = document.getElementById('formularz');
+        formularz.addEventListener('submit', function(event) {
+        event.preventDefault();
+
+        let haslo = document.getElementById('haslo').value;
+
+        if (haslo.length < 18 && haslo.length > 100) {
+        alert('Proszę wprowadzić poprawny adres e-mail.');
+        } else {
+        console.log('Dane są poprawne, przesyłanie formularza...');
+        }
+        });
+
+    </script>
+</body>
+</html>
