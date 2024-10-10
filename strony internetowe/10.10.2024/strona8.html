@@ -7,11 +7,9 @@
 </head>
 <body>
     <form id="formularz"> 
-        <label for="haslo">Hasło:</label>
-        <input type="password" id="haslo" name="haslo">
-        <label for="haslo2">Potwierdz Hasło:</label>
-        <input type="password" id="haslo2" name="haslo2">
-
+        <label for="email">Hasło:</label>
+        <input type="email" id="email" name="email" required>    
+        
         <button type="submit">Zaloguj się</button>
 
        </form>
@@ -22,13 +20,13 @@
         formularz.addEventListener('submit', function(event) {
         event.preventDefault();
 
-        let haslo = document.getElementById('haslo').value;
-        let haslo2 = document.getElementById('haslo2').value;
+        let email = document.getElementById('email').value;
 
-        if (haslo == haslo2) {
-        alert('Git');
+        if (email === "" || !email.includes('@') || !email.includes('.')) {
+        alert('Proszę wprowadzić poprawny adres e-mail.');
         } else {
         console.log('Dane są poprawne, przesyłanie formularza...');
+        // Można tu dodać kod, który faktycznie przesyła dane na serwer
         }
         });
 

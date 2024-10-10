@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <form id="formularz">
+        <label for="login">Email:</label>
+        <input type="login" id="login" name="login">
+
+        <label for="email">Email:</label>
+        <input type="email" id="email" name="email">
+       
+        <label for="haslo">Hasło:</label>
+        <input type="password" id="haslo" name="haslo">
+       
+        <button type="submit">Zaloguj się</button>
+       </form>
+
+       <script>
+        let formularz = document.getElementById('formularz');
+formularz.addEventListener('submit', function(event) {
+ event.preventDefault();
+
+ let email = document.getElementById('email').value;
+ let haslo = document.getElementById('haslo').value;
+
+ if (email == "") {
+    let email2 = document.getElementById("email").style.backgroundColor = "red";
+    alert('Proszę wprowadzić poprawny adres e-mail.');
+ } else if (haslo == "") {
+    let haslo2 = document.getElementById("haslo").style.backgroundColor = "red";
+    alert('Prosze wprowadzic haslo');
+} else if (login == "") {
+    let login2 = document.getElementById("login").style.backgroundColor = "red";
+    alert('Prosze wprowadzic login');
+ } else {
+ console.log('Dane są poprawne, przesyłanie formularza...');
+ // Można tu dodać kod, który faktycznie przesyła dane na serwer
+ }
+});
+
+        </script>
+</body>
+</html>
