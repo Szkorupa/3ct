@@ -7,4 +7,4 @@
 
 ![fish](https://media.tenor.com/x9efZijA7aYAAAAM/fsh-spin.gif) ![fish](https://media.tenor.com/x9efZijA7aYAAAAM/fsh-spin.gif) ![fish](https://media.tenor.com/x9efZijA7aYAAAAM/fsh-spin.gif) ![fish](https://media.tenor.com/x9efZijA7aYAAAAM/fsh-spin.gif)
 
-![skeleton](https://media.tenor.com/JPsZY_QDteUAAAAM/skeleton-meme.gif) ![skeleton](https://media.tenor.com/JPsZY_QDteUAAAAM/skeleton-meme.gif) ![skeleton](https://media.tenor.com/JPsZY_QDteUAAAAM/skeleton-meme.gif) ![skeleton](https://media.tenor.com/JPsZY_QDteUAAAAM/skeleton-meme.gif)
+![skeleton](https://media.tenor.com/JPsZY_QDteUAAAAM/skeleton-meme.gif) ![skeleton](https://media.tenor.com/JPsZY_QDteUAAAAM/skeleton-meme.gif) ![skeleton](https://media.tenor.com/JPsZY_QDteUAAAAM/skeleton-meme.gif)
