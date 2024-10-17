@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Programista\\source\\repos\\Aplikacja\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{58BBDDCF-DBFE-448A-8718-F20D51064BFC}|Aplikacja.csproj|c:\\users\\programista\\source\\repos\\aplikacja\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58BBDDCF-DBFE-448A-8718-F20D51064BFC}|Aplikacja.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58BBDDCF-DBFE-448A-8718-F20D51064BFC}|Aplikacja.csproj|c:\\users\\programista\\source\\repos\\aplikacja\\configfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58BBDDCF-DBFE-448A-8718-F20D51064BFC}|Aplikacja.csproj|solutionrelative:configfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConfigFile.cs",
+              "DocumentMoniker": "C:\\Users\\Programista\\source\\repos\\Aplikacja\\ConfigFile.cs",
+              "RelativeDocumentMoniker": "ConfigFile.cs",
+              "ToolTip": "C:\\Users\\Programista\\source\\repos\\Aplikacja\\ConfigFile.cs",
+              "RelativeToolTip": "ConfigFile.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAA9wCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T12:46:21.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Programista\\source\\repos\\Aplikacja\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Programista\\source\\repos\\Aplikacja\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAqwDEAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T12:45:44.178Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
