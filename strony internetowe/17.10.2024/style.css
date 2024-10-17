@@ -2,6 +2,7 @@
     padding: 0;
     margin: 0;
     box-sizing: border-box;
+    color: white;
 }
 
 .ekran{
@@ -38,7 +39,7 @@
 
 .register{
     height: 55vh;
-    width: auto;
+    width: 25vw;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -50,16 +51,42 @@ input::placeholder{
 
 input{
     transition-duration: 0.3s;
-    background-color: rgba(255, 255, 255, 0.1);
-    border: 2px solid transparent;
+    background-color: transparent;
+    border: 2px solid white;
+    width: 20vw;
 }
 
 input:hover{
     transition-duration: 0.3s;
-    border-bottom: 2px solid #a188a6;
+    border: 2px solid #8dc590;
 }
 
 label{
+    width: auto;
     color: white;
     font-family: Arial, Helvetica, sans-serif;
+}
+
+.inp{
+    padding: 10px;
+}
+
+.send{
+    display: flex;
+    justify-content: center;
+}
+button{
+    background-color: #ffffff;
+    color: black;
+    width: 12vw;
+    height: 5vh;
+    border-radius: 10px;
+    border: 2.5px solid black;
+    transition-duration: 300ms;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+}
+button:hover{
+    border: 2.5px solid #8dc590;
+    transition-duration: 300ms;
 }
