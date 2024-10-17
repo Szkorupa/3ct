@@ -8,35 +8,56 @@
 </head>
 <body>
     <div class="ekran">
-        <div class="okno">
+        <div class="okno" id="okno">
             <div class="title">
                 <p class="tekst-t">
                     Formularz
                 </p>
             </div>
             <div class="register">
-                <form>
-                    <div class="inp">
-                        <label>IMIE</label>
-                        <input type="text" id="imie" name="imie" required>
+                <form id="formularz">
+                    <div class="inp" id="im">
+                        <label>IMIE</label><br>
+                        <input type="text" id="imie" name="imie">
                     </div>
-                    <div class="inp">
-                        <label>NAZWISKO</label>
+                    <div class="inp" id="naz">
+                        <label>NAZWISKO</label><br>
                         <input type="text" id="nazwisko" name="nazwisko" required>
                     </div>
-                    <div class="inp">
-                        <label>DATA URODZENIA</label>
+                    <div class="inp" id="dat">
+                        <label>DATA URODZENIA</label><br>
                         <input type="date" id="data" name="data" required>
                     </div>
-                    <div class="inp">
-                        <label>IMIE</label>
-                        <input type="text" id="text" name="text" required>    
+                    <div class="inp" id="em">
+                        <label>email</label><br>
+                        <input type="email" id="email" name="email" required>
+                    </div>
+                    <div class="inp" id="tel">
+                        <label>NUMER TELEFONU</label><br>
+                        <input type="number" id="telefon" name="telefon" required>    
+                    </div>
+                    <div class="inp" id="has">
+                        <label>HASŁO</label><br>
+                        <input type="password" id="haslo" name="haslo" required>
+                    </div>
+                    <div class="inp" id="has2">
+                        <label>POWTÓRZ HASŁO</label><br>
+                        <input type="password" id="haslo2" name="haslo2" required>
                     </div>
                     <div class="send">
                         <button type="submit">Wyślij</button>
                     </div>      
                 </form>
             </div>
+        </div>
+        <div id="pod">
+            <p id="w1"></p>
+            <p id="w2"></p>
+            <p id="w3"></p>
+            <p id="w4"></p>
+            <p id="w5"></p>
+            <p id="w6"></p>
+            <p id="w7"></p>
         </div>
     </div>
     <script src="script.js"></script>
